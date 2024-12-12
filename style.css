@@ -144,10 +144,10 @@ p {
 #progress::-webkit-slider-thumb {
     -webkit-appearance: none;
     background: #f53192;
-    height: 1.5em;
-    width: 1.5em;
+    height: 2em;
+    width: 2em;
     border-radius: 50%;
-    border: 5px solid #fff;
+    border: 7px solid #ffffff;
 }
 
 .controls {
